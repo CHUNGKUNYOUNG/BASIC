@@ -1,5 +1,4 @@
 # BASIC
-# ACECHKY 
 <div class="text-mono text-small mb-3">
         <a href="https://github.com/CHUNGKUNYOUNG" class="no-underline Link--primary">ChungKunYoung<b>Chivalry</a><span class="color-fg-muted d-inline-block" style="padding:0px 2px;"></span>ACECHKY<span class="color-fg-muted">鄭 建 泳 정 건 영 CHUNGKUNYOUNG.</span></div>
 
@@ -49,8 +48,31 @@
                 <a href="https://www.google.com/search?q=debugger&sxsrf=ALiCzsakVsL8D9K52OhgEHpmbBGlch0mBg:1655210291465&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjA8s3r-qz4AhWLPZQKHVxoCE4Q_AUoAXoECAIQAw&biw=1536&bih=743&dpr=1.25">#debugger
 </a><span class="color-fg-muted d-inline-block" style="padding:0px 2px;"> 
         </div>
+        
+        
+        
+        
+        
+        
+       ![화면 캡처 2022-08-20 170703](https://user-images.githubusercontent.com/69118888/195470476-c89d5acb-d955-4c13-8104-6bcecae92453.png)
+       
+       
+       
+ 
+        
+        ![화면 캡처 2022-08-20 170929(1)](https://user-images.githubusercontent.com/69118888/195470435-a372b25e-c69b-4483-871e-e1d3c050a083.png)
+
+        
+        
+        ![화면 캡처 2022-08-20 171142(1)](https://user-images.githubusercontent.com/69118888/195470449-af7f8ff6-7d05-46c6-9e75-50395e5cd495.png)
+
+        
+        ![화면 캡처 2022-08-20 170543](https://user-images.githubusercontent.com/69118888/195470371-1df0e15f-3b43-4fb9-8d9b-9012756f01af.png)
 
 
+
+        
+![화면 캡처 2022-08-20 170324](https://user-images.githubusercontent.com/69118888/195470397-407c4d08-6f7f-4386-b1ad-f5e143894f92.png)
 
 
 
